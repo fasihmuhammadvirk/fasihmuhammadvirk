@@ -10,7 +10,7 @@
 🏫 I am a Computer Science Student at <a href='https://ist.edu.pk/'>Institute of Space Technology</a>.<br>🧑‍💻 I love using Software as a solution for every Problem.<br>🧑‍🎓 I’m currently doing BS in Computer Science.<br>🤓 Always learning new things.<br>🤔 I’m currently open for an Intern or a new job opportunity, this is <a href ='https://fasihmuhammadvirk.github.io/'>MY WEBSITE</a>.
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/faish-muhammad) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20787402) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/fasiihmuhammad) 
 
 # 💻 My Skills:
@@ -20,13 +20,13 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=FasihMuhammadVirk&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FasihMuhammadVirk&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=FasihMuhammadVirk&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Nerd Jokes
+# ✍️ Nerd Jokes
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## :moon: Real Time Moon Phase
+# :moon: Real Time Moon Phase
 	
 <p align = "center">
 	<!-- real time -->
