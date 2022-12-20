@@ -7,7 +7,7 @@
 
 	
 # 💫 About Me:
-🏫 I am a Computer Science Student at Institute of Space Technology.<br>🧑‍💻 I love using Software as a solution for every Problem.<br>🧑‍🎓 I’m currently doing BS in Computer Science.<br>🤓 Always learning new things.<br>🤔 I’m currently open for an Intern or a new job opportunity, this is <a href ='https://fasihmuhammadvirk.github.io/'>MY WEBSITE</a>.
+🏫 I am a Computer Science Student at <a href='https://ist.edu.pk/'>Institute of Space Technology</a>.<br>🧑‍💻 I love using Software as a solution for every Problem.<br>🧑‍🎓 I’m currently doing BS in Computer Science.<br>🤓 Always learning new things.<br>🤔 I’m currently open for an Intern or a new job opportunity, this is <a href ='https://fasihmuhammadvirk.github.io/'>MY WEBSITE</a>.
 
 
 ## 🌐 Socials:
@@ -26,13 +26,6 @@
 ### ✍️ Nerd Jokes
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=FasihMuhammadVirk&icon=2&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## :moon: Real Time Moon Phase
 	
 <p align = "center">
