@@ -7,7 +7,7 @@
 
 	
 ## 💫 About Me:
-🏫 I am a Computer Science Student at <a href='https://ist.edu.pk/'>Institute of Space Technology</a>.<br>🧑‍💻 I love using Software as a solution for every Problem.<br>🧑‍🎓 I’m currently doing BS in Computer Science.<br>🤓 Always learning new things.<br>🤔 I’m currently open for an Intern or a new job opportunity, this is <a href ='https://fasihmuhammadvirk.github.io/'>MY WEBSITE</a>.
+🏫 I am a Computer Science Student at <a href='https://ist.edu.pk/'>Institute of Space Technology</a>.<br>🧑‍💻 I love using Software as a solution for every Problem.<br>🧑‍🎓 I’m currently doing BS in Computer Science.<br>🤓 I am intrested in Data Science and Artificial Intelligence<br>🤔 I’m currently open for an Intern or a new job opportunity, this is <a href ='https://fasihmuhammadvirk.github.io/'>MY WEBSITE</a>.
 
 
 ## 🌐 Socials:
