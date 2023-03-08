@@ -18,8 +18,8 @@
 ## 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=FasihMuhammadVirk&theme=tokyonight&hide_border=false)<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=FasihMuhammadVirk&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+## 🏆 Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FasihMuhammadVirk)](https://github.com/FasihMuhammadVirk/github-readme-stats)
 
 ## ✍️ Nerd Jokes
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
