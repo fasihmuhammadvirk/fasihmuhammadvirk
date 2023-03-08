@@ -19,7 +19,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=FasihMuhammadVirk&theme=tokyonight&hide_border=false)<br/>
 
 ## 🏆 Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FasihMuhammadVirk)](https://github.com/FasihMuhammadVirk/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FasihMuhammadVirk&theme=tokyonight&hide_border=false)](https://github.com/FasihMuhammadVirk/github-readme-stats)
 
 ## ✍️ Nerd Jokes
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
