@@ -12,23 +12,14 @@
 ## 💻 My Skills:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=azure-devops&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 
+
+<div display:flex>
 ## 📔 Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FasihMuhammadVirk&theme=tokyonight&hide_border=false&langs_count=10)](https://github.com/FasihMuhammadVirk/github-readme-stats)
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=FasihMuhammadVirk&theme=tokyonight&hide_border=false)<br/>
+</div>
 
 
-
-## ✍️ Nerd Jokes
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-## :moon: Real Time Moon Phase
-	
-<p align = "center">
-	<!-- real time -->
-    <a href="https://moon-svg.minung.dev">
-        <img src="https://moon-svg.minung.dev/moon.svg?theme=basic" alt="moon.svg" />
-    </a>
-</p>
 
