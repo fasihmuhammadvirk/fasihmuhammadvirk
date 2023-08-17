@@ -15,7 +15,7 @@
 
 
 ## 📔 Top Languages
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=FasihMuhammadVirk&theme=tokyonight&&hide_progress=true_border=false&langs_count=10)](https://github.com/FasihMuhammadVirk/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=FasihMuhammadVirk&theme=tokyonight&hide_progress=true_border=false&langs_count=10)](https://github.com/FasihMuhammadVirk/github-readme-stats)
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=FasihMuhammadVirk&theme=tokyonight&hide_border=false)<br/>
