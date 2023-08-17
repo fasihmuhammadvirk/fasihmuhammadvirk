@@ -26,7 +26,4 @@
  
 </div>
 
-<p align="center"> <a href="https://holopin.io/@markhor"><img src="https://holopin.io/api/user/board?user=markhor" alt="@markhor's Holopin board" /></a> </p>
-	
-
 
