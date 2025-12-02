@@ -14,10 +14,11 @@
 
 ## 📊 GitHub Stats:
 <div style="display: flex; flex-direction: row;>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img alt="Fasih's Github Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=FasihMuhammadVirk&theme=tokyonight&hide_progress=true&hide_border=false&langs_count=10" height="210px"/></a>
 
 
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=FasihMuhammadVirk&theme=tokyonight&hide_border=false" alt="fasih muhammad" height="210px"/>
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=FasihMuhammadVirk&theme=tokyonight&hide_border=false" alt="fasih muhammad" height="210px"/> -->
 
 
 
