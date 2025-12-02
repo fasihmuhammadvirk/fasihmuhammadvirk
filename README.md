@@ -53,10 +53,9 @@
 
 ---
 
-## 🌐 Portfolio & Contact  
-- 🌎 Portfolio: **https://fasihmuhammadvirk.github.io/**  
+## 🌐 Contact  
 - 💼 LinkedIn: **https://linkedin.com/in/fasihmuhammadvirk**  
-- 📫 Email: **fasihvirk1@gmail.com**
+- 📫 Email: **fasihmuhammad.virk@gmail.com**
 
 ---
 
