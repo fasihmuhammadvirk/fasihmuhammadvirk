@@ -72,14 +72,6 @@
 
 ---
 
-## 🐍 Snake Eating My Contributions
-
-<p align="center">
-  <img src="https://github.com/FasihMuhammadVirk/FasihMuhammadVirk/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ## 🌐 Connect with Me
 
 <p align="left">
