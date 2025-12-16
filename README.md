@@ -80,13 +80,6 @@
 
 ---
 
-## 🧾 Resume & Profile
-
-- 📄 [**Resume PDF**](./Fasih-Muhammad-Virk-FlowCV-Resume-20251212.pdf)
-- 🗂️ [**Profile PDF**](./Profile.pdf)
-
----
-
 ## 🌐 Connect with Me
 
 <p align="left">
