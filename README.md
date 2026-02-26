@@ -51,14 +51,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FasihMuhammadVirk&theme=algolia&margin-w=15&no-frame=true" />
-</p>
-
----
-
 ## 📈 GitHub Stats & Activity
 
 <p align="center">
