@@ -54,11 +54,6 @@
 ## 📈 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FasihMuhammadVirk&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FasihMuhammadVirk&theme=tokyonight" height="180"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=FasihMuhammadVirk&theme=tokyo-night&area=true" />
 </p>
 
