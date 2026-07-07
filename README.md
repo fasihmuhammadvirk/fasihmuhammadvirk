@@ -57,12 +57,13 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=FasihMuhammadVirk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FasihMuhammadVirk&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=FasihMuhammadVirk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=FasihMuhammadVirk&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FasihMuhammadVirk&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://img.shields.io/github/followers/FasihMuhammadVirk?label=Followers&style=for-the-badge&color=2EC4B6&logo=github" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/FasihMuhammadVirk&label=Public%20Repos&query=public_repos&style=for-the-badge&color=0D3B66&logo=github" />
 </p>
 
 ---
