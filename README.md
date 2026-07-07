@@ -54,14 +54,15 @@
 
 ---
 
-## 📈 GitHub Stats & Activity
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=FasihMuhammadVirk&theme=tokyonight" height="180"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=FasihMuhammadVirk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FasihMuhammadVirk&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FasihMuhammadVirk&theme=tokyo-night&area=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=FasihMuhammadVirk&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
